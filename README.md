@@ -5,6 +5,10 @@
 
 CINEVAULT is a curated, interactive web directory showcasing legendary film directors and their masterpieces. The project features a dark-themed, responsive user interface with dynamic content loading and smart search functionality.
 
+## 🔗 Live Demo
+Check out the live version of the project here:
+**[https://cinevault-directors.netlify.app/](https://cinevault-directors.netlify.app/)**
+
 ## 🌟 Features
 
 * **Director Showcase:** A grid layout displaying cards for various directors (e.g., Christopher Nolan, Akira Kurosawa, Rajkumar Hirani) with their images and masterpiece counts.
